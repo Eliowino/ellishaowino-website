@@ -386,11 +386,15 @@ footer{
     #services .header{
         font-size: 3em;
     }
-    #contact .input-box span{
+    #contact .form span{
         font-size: 1.2em;
     }
     .input-box input{
         padding: 0.5em 1em;
+    }
+    .input-box textarea{
+        padding: 0.5em 2em;
+        
     }
     footer{
         flex-direction: column;
